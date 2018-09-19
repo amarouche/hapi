@@ -1,0 +1,24 @@
+{
+  "name": "hapivue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amarouche/hapivue.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amarouche/hapivue/issues"
+  },
+  "homepage": "https://github.com/amarouche/hapivue#readme",
+  "dependencies": {
+    "hapi": "^17.5.4",
+    "nodemon": "^1.18.4"
+  }
+}
