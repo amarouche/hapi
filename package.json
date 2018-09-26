@@ -18,6 +18,10 @@
   },
   "homepage": "https://github.com/amarouche/hapivue#readme",
   "dependencies": {
+    "config": "^2.0.1",
+    "good": "^8.1.1",
+    "good-console": "^7.1.0",
+    "good-squeeze": "^5.1.0",
     "hapi": "^17.5.4",
     "nodemon": "^1.18.4"
   }
